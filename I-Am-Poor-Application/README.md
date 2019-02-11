@@ -1,1 +1,1 @@
-The images in this project do not belong to me. The code is written by me.
+This is an iOS application that shows an image of a coal and a text "I Am Poor". It is a spin-off of the I Am Rich application that was on AppStore. The design is made by me and the image of the coal belongs to London App Brewery.
